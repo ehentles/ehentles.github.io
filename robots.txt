@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ehentles.github.io/sitemap
+Sitemap: https://ehentles.github.io/app/sitemap
+Sitemap: https://ehentles.github.io/assets/sitemap
+Sitemap: https://ehentles.github.io/css/sitemap
+Sitemap: https://ehentles.github.io/includes/sitemap
+Sitemap: https://ehentles.github.io/item/sitemap
+Sitemap: https://ehentles.github.io/src/sitemap
